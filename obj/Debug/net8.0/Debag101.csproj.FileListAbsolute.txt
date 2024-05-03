@@ -12,3 +12,4 @@
 /Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/Debag101/obj/Debug/net8.0/Debag101.pdb
 /Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/Debag101/obj/Debug/net8.0/Debag101.genruntimeconfig.cache
 /Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/Debag101/obj/Debug/net8.0/ref/Debag101.dll
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/Debag101/obj/Debug/net8.0/Debag101.sourcelink.json

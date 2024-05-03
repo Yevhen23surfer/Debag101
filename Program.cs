@@ -1,33 +1,11 @@
-﻿/* 
-This code uses a names array and corresponding methods to display
-greeting messages
-*/
+﻿bool exit = false;
+var rand = new Random();
+int num1 = 5;
+int num2 = 5;
 
-string[] names = new string[] { "Sophia", "Andrew", "AllGreetings" };
-
-string messageText = "";
-
-foreach (string name in names)
+do
 {
-    if (name == "Sophia")
-        messageText = SophiaMessage();
-    else if (name == "Andrew")
-        messageText = AndrewMessage();
-    else if (name == "AllGreetings")
-        messageText = SophiaMessage() + "\n\r" + AndrewMessage();
+    num1 = rand.Next(1, 11);
+    num2 = num1 + rand.Next(1, 51);
 
-    Console.WriteLine(messageText + "\n\r");
-}
-
-bool pauseCode = true;
-while (pauseCode == true);
-
-static string SophiaMessage()
-{
-    return "Hello, my name is Sophia.";
-}
-
-static string AndrewMessage()
-{
-    return "Hi, my name is Andrew. Good to meet you.";
-}
+ while (exit == false);
