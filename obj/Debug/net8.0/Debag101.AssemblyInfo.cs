@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Debag101")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+881181e6db4fadf76396964f58ed0b678c030045")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68dba24ce98fa5228995393e7d17fa0fe8febe35")]
 [assembly: System.Reflection.AssemblyProductAttribute("Debag101")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Debag101")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
