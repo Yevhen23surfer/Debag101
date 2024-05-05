@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Starter/bin/Debug/net8.0/Starter.dll",
+            "program": "${workspaceFolder}/ChallengeProject/Starter/bin/Debug/net8.0/Starter.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Starter",
+            "cwd": "${workspaceFolder}/ChallengeProject/Starter",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "integratedTerminal",
             "stopAtEntry": false
