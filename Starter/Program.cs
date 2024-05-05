@@ -19,8 +19,11 @@ is used to ensure that logic in the MakeChange method is working as
 expected.
 */
 
+
 string? readResult = null;
-bool useTestData = true;
+bool useTestData = false;
+
+Console.WriteLine();
 
 Console.Clear();
 
@@ -147,7 +150,7 @@ static string MakeChange(int cost, int[] cashTill, int twenties, int tens = 0, i
 
     while ((changeNeeded > 4) && (cashTill[1] > 0))
     {
-        cashTill[2]--;
+        cashTill[1]--;
         changeNeeded -= 5;
         Console.WriteLine("\t A five");
     }
