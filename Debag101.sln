@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Debag101", "Debag101.csproj", "{55F0D4AA-7BFA-4350-B50A-701B5D72C361}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starter", "Starter\Starter.csproj", "{1A2068D4-36E9-4303-8CA9-C1DEB7C91C3C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Final", "Final\Final.csproj", "{D58C0580-9C7F-436B-AA61-4A44F5E71CFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +13,19 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{55F0D4AA-7BFA-4350-B50A-701B5D72C361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{55F0D4AA-7BFA-4350-B50A-701B5D72C361}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{55F0D4AA-7BFA-4350-B50A-701B5D72C361}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{55F0D4AA-7BFA-4350-B50A-701B5D72C361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A2068D4-36E9-4303-8CA9-C1DEB7C91C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2068D4-36E9-4303-8CA9-C1DEB7C91C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2068D4-36E9-4303-8CA9-C1DEB7C91C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2068D4-36E9-4303-8CA9-C1DEB7C91C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D58C0580-9C7F-436B-AA61-4A44F5E71CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58C0580-9C7F-436B-AA61-4A44F5E71CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58C0580-9C7F-436B-AA61-4A44F5E71CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58C0580-9C7F-436B-AA61-4A44F5E71CFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8756511C-1075-42F9-A0BD-3E56F95A98ED}
+		SolutionGuid = {2FF7AFA4-9048-4212-A5C9-09E3439C2416}
 	EndGlobalSection
 EndGlobal
